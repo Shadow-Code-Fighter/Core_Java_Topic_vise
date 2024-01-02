@@ -8,7 +8,10 @@ public class palindrome {
         String original ,reverse="";
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a String to check if it is a pelidrome: ");
-        
+        original=sc.nextLine();
+
+        int length = original.length();
+        System.out.println(length);
         
     }
     
