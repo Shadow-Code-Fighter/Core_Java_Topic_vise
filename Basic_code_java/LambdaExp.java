@@ -1,4 +1,4 @@
-package Practice;
+package Basic_code_java;
 interface B{
 
     public void test();
@@ -8,7 +8,7 @@ public class LambdaExp {
 
     static void test1(){
         B b1 = ()-> {
-                System.out.println(100);
+            System.out.println(100);
         };
         b1.test();
     }
