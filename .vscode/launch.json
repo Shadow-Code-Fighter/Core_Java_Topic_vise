@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringEmpty",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StringEmpty",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "ConverByteArrayString",
+            "request": "launch",
+            "mainClass": "Basic_code_java.ConverByteArrayString",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "MyStringJoiner",
+            "request": "launch",
+            "mainClass": "Basic_code_java.MyStringJoiner",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "FinalizeKeyword",
+            "request": "launch",
+            "mainClass": "Basic_code_java.FinalizeKeyword",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
