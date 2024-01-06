@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverses_String",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.Reverses_String",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "StringEmpty",
             "request": "launch",
             "mainClass": "Basic_code_java.StringEmpty",

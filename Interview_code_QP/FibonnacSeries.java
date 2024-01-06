@@ -20,5 +20,6 @@ public class FibonnacSeries {
         count++;
     }
     System.out.println("Nth position: "+b);
+    sc.close();
    }
 }

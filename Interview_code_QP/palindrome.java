@@ -20,6 +20,7 @@ public class Palindrome {
         }else{
             System.out.println("Entered string is not pelidrome");
         }
+        sc.close();
     }
     
 }
