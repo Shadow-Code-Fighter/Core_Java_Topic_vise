@@ -11,7 +11,7 @@ public class PredicateFI {
         System.out.println(result);
 
         Predicate<Integer> val1 = x->x%2!=0;//reutrn given no is even or no
-        boolean result1 = val.test(13);
+        boolean result1 = val1.test(13);
         System.out.println(result1);
 
         Predicate<String> str = x->x.equals("mike");
