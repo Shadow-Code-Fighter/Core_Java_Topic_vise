@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Finalize",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Finalize",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExp",
+            "request": "launch",
+            "mainClass": "Basic_code_java.LambdaExp",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "PredicateFI",
+            "request": "launch",
+            "mainClass": "Basic_code_java.PredicateFI",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "ThisKeyword",
+            "request": "launch",
+            "mainClass": "Basic_code_java.ThisKeyword",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "ThrowInsideLambda",
+            "request": "launch",
+            "mainClass": "Basic_code_java.ThrowInsideLambda",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "CheckSorted",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.CheckSorted",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "FibonnacSeries",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.FibonnacSeries",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.palindrome",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "reverses_String",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.reverses_String",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "Leet_Code.TwoSum",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        }
+    ]
+}
