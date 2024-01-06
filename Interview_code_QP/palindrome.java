@@ -2,7 +2,7 @@ package Interview_code_QP;
 
 import java.util.Scanner;
 
-public class palindrome {
+public class Palindrome {
 
     public static void main(String[] args) {
         String original ,reverse="";

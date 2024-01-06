@@ -2,7 +2,7 @@ package Interview_code_QP;
 
 import java.util.Scanner;
 
-public class reverses_String {
+public class Reverses_String {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter words");
