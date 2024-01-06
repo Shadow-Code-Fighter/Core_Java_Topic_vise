@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomException",
+            "request": "launch",
+            "mainClass": "Basic_code_java.CustomException",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "MagicNumber",
             "request": "launch",
             "mainClass": "Interview_code_QP.MagicNumber",
