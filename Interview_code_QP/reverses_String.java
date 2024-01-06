@@ -20,6 +20,6 @@ public class Reverses_String {
             // for(int i=str.length()-1;i>=0;i--){
             //     System.out.print(str.charAt(i));
             // }
-            // sc.close();
+            sc.close();
     }
 }
