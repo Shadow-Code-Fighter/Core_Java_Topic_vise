@@ -7,6 +7,9 @@ import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
 public class SerializableInJava implements Serializable {
+
+    // private static final long serialVersionUID = 1L;
+
     int id;
     String name;
     SerializableInJava(int id, String name){
