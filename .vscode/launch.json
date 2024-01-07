@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SplitString",
+            "request": "launch",
+            "mainClass": "Basic_code_java.String.SplitString",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "StringSwitchCase",
             "request": "launch",
             "mainClass": "Basic_code_java.String.StringSwitchCase",
