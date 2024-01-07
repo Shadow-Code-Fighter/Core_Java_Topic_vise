@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringSwitchCase",
+            "request": "launch",
+            "mainClass": "Basic_code_java.String.StringSwitchCase",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "SubStringInJava",
+            "request": "launch",
+            "mainClass": "Basic_code_java.String.SubStringInJava",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "StringIntern",
+            "request": "launch",
+            "mainClass": "Basic_code_java.String.StringIntern",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "CustomException",
             "request": "launch",
             "mainClass": "Basic_code_java.CustomException",

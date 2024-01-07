@@ -1,4 +1,4 @@
-package Basic_code_java;
+package Basic_code_java.String;
 //In this class wee use isEmpty() method to check string is empty or not
 public class StringEmpty {
 
