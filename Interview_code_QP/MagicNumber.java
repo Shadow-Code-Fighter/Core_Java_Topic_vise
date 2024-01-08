@@ -12,27 +12,30 @@ import java.util.Scanner;
 
 public class MagicNumber {
     public static void main(String[] args) {
-        int num;
+        long num;
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a number to check is magic number or not: ");
-        num=in.nextInt();
-        int sumOfDigits = 0;
+        num=in.nextLong();
+        long sumOfDigits = 0;
+        System.out.println("Enter your choice Lucky number is: ");
+        int choice =in.nextInt();
 
         // Check here given number
-    while (num>0 || sumOfDigits>9) {
-        if (num==0) {
-            num=sumOfDigits;
-            sumOfDigits=0;
-        }
-        sumOfDigits += num % 10;
-        num /=10;
-    }
+            while (num>0 || sumOfDigits>9) {
+                if (num==0) {
+                    num=sumOfDigits;
+                    sumOfDigits=0;
+                }
+                sumOfDigits += num % 10;
+                num /=10;
+            }
+            System.out.println("Sum of given number is: " +sumOfDigits);
 
         // If sum is 1, original number is magic number 
-            if(sumOfDigits == 1) {
-                System.out.println("Magic number");
+            if(sumOfDigits == choice) {
+                System.out.println("magic number: ");
             }else {
-                System.out.println("Not magic number");
+                System.out.println("Not magic number: ");
             }
     in.close();
 

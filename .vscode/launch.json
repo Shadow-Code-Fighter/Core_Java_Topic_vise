@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practice2",
+            "request": "launch",
+            "mainClass": "Practice.practice2",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "practice1",
+            "request": "launch",
+            "mainClass": "Practice.practice1",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "SerializableInJava",
             "request": "launch",
             "mainClass": "Basic_code_java.SerializableInJava",
