@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FunctionalInterfaceClass",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Functionalinterface.FunctionalInterfaceClass",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "practice2",
             "request": "launch",
             "mainClass": "Practice.practice2",
