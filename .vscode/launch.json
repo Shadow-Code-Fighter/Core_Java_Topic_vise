@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StreamApi1",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StreamApi.StreamApi1",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "FunctionalInterfaceClass",
             "request": "launch",
             "mainClass": "Basic_code_java.Functionalinterface.FunctionalInterfaceClass",
