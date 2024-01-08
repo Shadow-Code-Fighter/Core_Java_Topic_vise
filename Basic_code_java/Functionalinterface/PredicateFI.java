@@ -1,4 +1,4 @@
-package Basic_code_java;
+package Basic_code_java.Functionalinterface;
 
 import java.util.function.Predicate;
 
