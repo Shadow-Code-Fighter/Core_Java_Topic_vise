@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegexEx",
+            "request": "launch",
+            "mainClass": "RegexEx",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "RegularEx",
             "request": "launch",
             "mainClass": "RegularEx",
