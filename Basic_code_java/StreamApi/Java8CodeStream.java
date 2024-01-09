@@ -7,8 +7,8 @@ import java.util.stream.Collectors;
 public class Java8CodeStream {
     
     public static void main(String[] args) {
-        List<String> listData = Arrays.asList("Java","Python","C#","Kotlin");
-        listData.stream().distinct().collect(Collectors.toList());
-        System.out.println();
+        List<String> listData = Arrays.asList("Java","Python","C#","Kotlin","Java","Python");
+        List<String> newData = listData.stream().distinct().collect(Collectors.toList());
+        System.out.println(newData);
     }
 }

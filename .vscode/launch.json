@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Java8CodeStream",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StreamApi.Java8CodeStream",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "FirstLetterUpperCase",
             "request": "launch",
             "mainClass": "Basic_code_java.StreamApi.FirstLetterUpperCase",
