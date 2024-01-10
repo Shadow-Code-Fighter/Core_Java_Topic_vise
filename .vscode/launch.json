@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SetCollection",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Collection.SetCollection",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "IterableJava",
             "request": "launch",
             "mainClass": "Basic_code_java.Collection.IterableJava",
