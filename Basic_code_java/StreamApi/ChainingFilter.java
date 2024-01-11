@@ -11,5 +11,6 @@ public class ChainingFilter {
         .filter(n->n>5).collect(Collectors.toList());
 
         System.out.println(filterNumbers);
+
     }
 }
