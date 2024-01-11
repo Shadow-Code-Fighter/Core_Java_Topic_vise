@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlatMapStream",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StreamApi.FlatMapStream",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Interview_code_QP.Palindrome",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "SetCollection",
             "request": "launch",
             "mainClass": "Basic_code_java.Collection.SetCollection",
