@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PoweOfNum",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.PoweOfNum",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.Factorial",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "SumOfSeries",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.SumOfSeries",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "Basic_code_java.Loops.WhileLoop",
