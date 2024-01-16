@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.WhileLoop",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "FirstLetterCap",
             "request": "launch",
             "mainClass": "Basic_code_java.StreamApi.FirstLetterCap",
