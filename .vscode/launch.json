@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForEachOrdered",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StreamApi.ForEachOrdered",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "Basic_code_java.StreamApi.ForEach",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.DoWhileLoop",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "WhileExample",
+            "request": "launch",
+            "mainClass": "Basic_code_java.Loops.WhileExample",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "FFileExample",
             "request": "launch",
             "mainClass": "Basic_code_java.File.FFileExample",
