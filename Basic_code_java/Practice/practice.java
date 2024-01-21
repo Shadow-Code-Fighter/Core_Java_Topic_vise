@@ -1,4 +1,4 @@
-package Practice;
+package Basic_code_java.Practice;
 
 public class practice {
 

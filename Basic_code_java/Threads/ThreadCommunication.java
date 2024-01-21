@@ -1,5 +1,8 @@
 package Basic_code_java.Threads;
 
+// this program shows how to use wait and notify
+// this is the most effeciant way of thread communication
+
 class ThreadCommunication {
     public static void main(String[] args) {
         Producer pd = new Producer();
