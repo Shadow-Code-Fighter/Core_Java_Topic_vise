@@ -1,4 +1,4 @@
-package Basic_code_java.Threads;
+package Basic_code_java.Threads.Threads;
 
 // this program shows how to use wait and notify
 // this is the most effeciant way of thread communication
