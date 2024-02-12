@@ -48,7 +48,7 @@ public class CheckSorted {
             }
         }
 
-        //after sorting array print
+        //after sorting array print 
         System.out.println("After Sorting");
         for(int value: arr){
             System.out.println(value);
