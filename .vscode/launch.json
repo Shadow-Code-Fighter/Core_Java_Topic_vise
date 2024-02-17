@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UniqueNumberCheck",
+            "request": "launch",
+            "mainClass": "Practice.UniqueNumberCheck",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "practice4",
             "request": "launch",
             "mainClass": "Practice.practice4",
