@@ -1,4 +1,4 @@
-package Basic_code_java.Interview_code_QP;
+package Interview_code_QP;
 
 public class CountOccurence {
 

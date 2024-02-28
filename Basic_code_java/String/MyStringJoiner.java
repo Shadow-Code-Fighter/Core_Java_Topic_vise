@@ -1,4 +1,4 @@
-package Basic_code_java.String;
+package String;
 
 import java.util.StringJoiner;
 

@@ -1,4 +1,4 @@
-package Basic_code_java.Threads;
+package Threads;
 
 class InnerDemonThread extends Thread {
     public void run(){

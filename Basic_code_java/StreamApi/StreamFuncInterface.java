@@ -1,4 +1,4 @@
-package Basic_code_java.StreamApi;
+package StreamApi;
 
 import java.util.Arrays;
 import java.util.HashSet;

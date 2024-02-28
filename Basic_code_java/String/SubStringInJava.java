@@ -1,4 +1,4 @@
-package Basic_code_java.String;
+package String;
 
 public class SubStringInJava {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basic_code_java.String;
+package String;
 
 //intern() is a method of string class where .equals() is a method of object class, String is override the
 //  .equals() method

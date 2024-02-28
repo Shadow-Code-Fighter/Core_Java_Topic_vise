@@ -1,4 +1,4 @@
-package Basic_code_java.String;
+package String;
 
 // Split() is a Java method for breaking a string based on a Java string delimiter (specified regex).
 public class SplitString {

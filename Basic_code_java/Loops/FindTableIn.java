@@ -1,4 +1,4 @@
-package Basic_code_java.Loops;
+package Loops;
 
 public class FindTableIn {
     public static void main(String[] args) {

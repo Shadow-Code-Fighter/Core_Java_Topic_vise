@@ -1,4 +1,4 @@
-package Basic_code_java.String;
+package String;
 
 public class StringSwitchCase {
     public static void main(String[] args) {

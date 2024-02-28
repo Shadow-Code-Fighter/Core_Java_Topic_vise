@@ -1,4 +1,4 @@
-package Basic_code_java.Loops;
+package Loops;
 import java.util.Scanner;
 
 public class WhileExample {
