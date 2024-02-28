@@ -1,4 +1,4 @@
-package Basic_code_java;
+
 
 public class PureFunction {
 

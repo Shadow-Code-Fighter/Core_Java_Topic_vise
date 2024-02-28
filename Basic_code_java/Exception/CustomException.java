@@ -1,4 +1,5 @@
-package Basic_code_java;
+package Exception;
+
 
 //User create custom exception where inherit parent message using super keyword
 class UserCustomException extends Exception {

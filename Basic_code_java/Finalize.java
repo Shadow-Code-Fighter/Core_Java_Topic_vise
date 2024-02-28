@@ -1,4 +1,3 @@
-package Basic_code_java;
 
 public class Finalize {
     public static void main(String []args){

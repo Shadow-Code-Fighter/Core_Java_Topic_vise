@@ -1,4 +1,5 @@
-package Basic_code_java;
+package String;
+
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

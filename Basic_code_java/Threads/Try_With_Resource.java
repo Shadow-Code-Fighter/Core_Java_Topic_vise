@@ -1,4 +1,4 @@
-package Basic_code_java.Threads.Threads;
+package Threads;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

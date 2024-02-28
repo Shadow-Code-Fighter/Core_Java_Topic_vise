@@ -1,4 +1,4 @@
-package Basic_code_java;
+
 interface B{
 
     public void test();
