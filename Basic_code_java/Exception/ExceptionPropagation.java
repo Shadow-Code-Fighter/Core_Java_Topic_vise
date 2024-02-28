@@ -1,4 +1,4 @@
-package Basic_code_java.Exception;
+package Exception;
 
 public class ExceptionPropagation {
         public static void main(String[] args) {

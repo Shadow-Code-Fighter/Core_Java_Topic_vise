@@ -1,4 +1,4 @@
-package Basic_code_java.File;
+package File;
 
 import java.io.File;
 import java.io.IOException;
