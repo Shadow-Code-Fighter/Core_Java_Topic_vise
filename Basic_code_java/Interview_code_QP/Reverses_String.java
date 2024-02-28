@@ -15,11 +15,11 @@ public class Reverses_String {
         str=revStr(str);
         System.out.println(str);
 
-
         //second method
             // for(int i=str.length()-1;i>=0;i--){
             //     System.out.print(str.charAt(i));
             // }
+
             sc.close();
     }
 }

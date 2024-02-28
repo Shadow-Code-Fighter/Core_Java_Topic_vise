@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenSum",
+            "request": "launch",
+            "mainClass": "StreamApi.EvenSum",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "practice8",
+            "request": "launch",
+            "mainClass": "Practice.practice8",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "practice7",
+            "request": "launch",
+            "mainClass": "Practice.practice7",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "practice6",
+            "request": "launch",
+            "mainClass": "Practice.practice6",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "UniqueNumberCheck",
             "request": "launch",
             "mainClass": "Practice.UniqueNumberCheck",
