@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OddNumSum",
+            "request": "launch",
+            "mainClass": "StreamApi.practice_code.OddNumSum",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "LongString",
+            "request": "launch",
+            "mainClass": "StreamApi.practice_code.LongString",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "StringFrequecy",
+            "request": "launch",
+            "mainClass": "StreamApi.practice_code.StringFrequecy",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "FailFast",
+            "request": "launch",
+            "mainClass": "Collection.FailFast",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "FailSafe",
+            "request": "launch",
+            "mainClass": "Collection.FailSafe",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "EvenSum",
             "request": "launch",
             "mainClass": "StreamApi.EvenSum",
