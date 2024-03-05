@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practice9",
+            "request": "launch",
+            "mainClass": "Practice.practice9",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "Client2",
             "request": "launch",
             "mainClass": "Abstraction.Client2",
