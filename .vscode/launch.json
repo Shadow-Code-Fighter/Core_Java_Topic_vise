@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DeciReverseStream",
+            "request": "launch",
+            "mainClass": "StreamApi.DeciReverseStream",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "AnnotationDemo",
             "request": "launch",
             "mainClass": "Annotations.AnnotationDemo",
