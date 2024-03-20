@@ -13,8 +13,11 @@ public class CountOccurence {
     }
     public static void main(String[] args) {
         String s="gaurav";
-        char c = 'a';
+        int arr[] = ;
+        for(char c:s){
+            
+        }
+        // char c = 'a';
     System.out.println(countOccurence(s, c));
-    }
-    
+    } 
 }
