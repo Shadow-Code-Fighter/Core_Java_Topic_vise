@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "piramids",
+            "request": "launch",
+            "mainClass": "Practice.piramids",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "CountOccurence",
             "request": "launch",
             "mainClass": "Interview_code_QP.CountOccurence",
