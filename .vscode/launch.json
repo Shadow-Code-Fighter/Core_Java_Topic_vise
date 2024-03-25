@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pelindrome",
+            "request": "launch",
+            "mainClass": "Practice.Pelindrome",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "Practice.ReverseString",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "PatternNumberSequence",
             "request": "launch",
             "mainClass": "Practice.PatternNumberSequence",
