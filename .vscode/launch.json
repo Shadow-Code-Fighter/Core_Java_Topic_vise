@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "Practice.PrimeCheck",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Practice.Factorial",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "Pelindrome",
             "request": "launch",
             "mainClass": "Practice.Pelindrome",
