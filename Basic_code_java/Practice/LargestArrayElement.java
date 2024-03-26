@@ -5,6 +5,7 @@ public class LargestArrayElement {
         int arr[]={10,50,70,40,50}; //unsorted
         int arr1[]={10,20,30,40,50}; //sorted
         
+
         System.out.println(arr1[arr1.length-1]);//when sorted element then last maximum number
 
         for(int i=1;i<arr.length;i++){ //unsorted array then use loop
@@ -15,3 +16,4 @@ public class LargestArrayElement {
         System.out.println(arr[0]);
     }
 }
+
