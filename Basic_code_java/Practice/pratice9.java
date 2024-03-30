@@ -2,7 +2,7 @@ package Practice;
 
 public class pratice9 {
     public static void main(String[] args) {
-        String str="gaurav";
+        String str="racecar";
         boolean isPelindrome=true;
 
 
