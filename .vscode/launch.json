@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pratice9",
+            "request": "launch",
+            "mainClass": "Practice.pratice9",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "Practice.BubbleSort",
