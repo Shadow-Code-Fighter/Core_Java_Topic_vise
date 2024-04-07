@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountStringNumber",
+            "request": "launch",
+            "mainClass": "Practice.CountStringNumber",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "pratice9",
             "request": "launch",
             "mainClass": "Practice.pratice9",
