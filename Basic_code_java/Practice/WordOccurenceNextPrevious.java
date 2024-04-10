@@ -41,7 +41,19 @@ public class WordOccurenceNextPrevious {
         // }
 
         String[] words = sentence.split(" ");
-        long c = Arrays.stream(words).filter(word->word.equals(targetWord)).count();
-        System.out.println(c);
+        int index = Arrays.asList(words).indexOf(targetWord);
+
+        if (index != -1) {
+          // Find previous word
+          String previousWord = index > 0 ? words[index - 1] : null;
+            
+          // Find next word
+          String nextWord = index < words.length - 1 ? words[index + 1] : null;
+
+          System.out.println("Previous Word: " + previousWord);
+          System.out.println("Next Word: " + nextWord);
+      } else {
+          System.out.println("Target word not found in the sentence.");
+      }
     }
 }
