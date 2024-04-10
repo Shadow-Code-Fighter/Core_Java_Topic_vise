@@ -1,5 +1,6 @@
 package Practice;
 
+import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -22,19 +23,25 @@ public class WordOccurenceNextPrevious {
         //     System.out.println("Next Word: "+nextWord);
         // }
 
-        Pattern pattern = Pattern.compile("(?:(\\S+)\\s)?" + targetWord + "\\s(\\S+)");
-        Matcher matcher = pattern.matcher(sentence);
 
-        while (matcher.find()) {
-            String pre = matcher.group(1);
-            String nxt = matcher.group(2);
+// 2nd approach
+        // Pattern pattern = Pattern.compile("(?:(\\S+)\\s)?" + targetWord + "\\s(\\S+)");
+        // Matcher matcher = pattern.matcher(sentence);
 
-            if (pre==null) {
-                pre="null";
-            }
+        // while (matcher.find()) {
+        //     String pre = matcher.group(1);
+        //     String nxt = matcher.group(2);
 
-            System.out.println(pre);
-            System.out.println(nxt);
-        }
+        //     if (pre==null) {
+        //         pre="null";
+        //     }
+
+        //     System.out.println(pre);
+        //     System.out.println(nxt);
+        // }
+
+        String[] words = sentence.split(" ");
+        long c = Arrays.stream(words).filter(word->word.equals(targetWord)).count();
+        System.out.println(c);
     }
 }

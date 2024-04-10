@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxMinNum",
+            "request": "launch",
+            "mainClass": "StreamApi.practice_code.MaxMinNum",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "WordOccurenceNextPrevious",
             "request": "launch",
             "mainClass": "Practice.WordOccurenceNextPrevious",
