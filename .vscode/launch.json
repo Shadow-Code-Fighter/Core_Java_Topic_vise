@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwapWithoutTemp",
+            "request": "launch",
+            "mainClass": "Practice.SwapWithoutTemp",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "FindSumDigit",
             "request": "launch",
             "mainClass": "String.FindSumDigit",
