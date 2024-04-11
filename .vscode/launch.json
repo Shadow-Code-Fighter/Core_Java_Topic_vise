@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindSumDigit",
+            "request": "launch",
+            "mainClass": "String.FindSumDigit",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "FindVowelString",
+            "request": "launch",
+            "mainClass": "String.FindVowelString",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "Grouping",
+            "request": "launch",
+            "mainClass": "StreamApi.practice_code.Grouping",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "MaxMinNum",
             "request": "launch",
             "mainClass": "StreamApi.practice_code.MaxMinNum",
