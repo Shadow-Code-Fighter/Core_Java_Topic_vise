@@ -8,7 +8,6 @@ public class SwapWithoutTemp {
         a = a + b;
         b = a - b;
         a = a - b;
-
         System.out.println(a);
         System.out.println(b);
     }
