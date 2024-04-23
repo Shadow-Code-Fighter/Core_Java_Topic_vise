@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UsingMethodFindisEven",
+            "request": "launch",
+            "mainClass": "StreamApi.UsingMethodFindisEven",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "Singleton",
             "request": "launch",
             "mainClass": "Practice.Singleton",
