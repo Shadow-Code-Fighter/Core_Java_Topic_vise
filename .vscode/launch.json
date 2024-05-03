@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashCode",
+            "request": "launch",
+            "mainClass": "Threads.HashCode",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
+            "name": "Synchronization",
+            "request": "launch",
+            "mainClass": "Threads.Synchronization",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "UsingMethodFindisEven",
             "request": "launch",
             "mainClass": "StreamApi.UsingMethodFindisEven",
