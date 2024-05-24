@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Practice.Main",
+            "projectName": "Core_Java_Topic_vise_dd8b5028"
+        },
+        {
+            "type": "java",
             "name": "HashCode",
             "request": "launch",
             "mainClass": "Threads.HashCode",
