@@ -18,6 +18,7 @@ public class StringOccurences {
         for(String word : words){
             //remove punctuation and convert lowercase
             word = word.replaceAll("[^a-zA-Z]", "").toLowerCase();
+            // System.out.println(word);
             if (!word.isEmpty()) {
                 wordFrequency.put(word, wordFrequency.getOrDefault(word, 0)+1);
             }
